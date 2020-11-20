@@ -7,7 +7,7 @@ Når du har importeret jar filen skal du skrive dette for at bruge knappen.
 
  knap stinkyKnap = new knap(this,200,200,"Becku sucks",150,50);
  
- for at tegne den skriver du 
+ for at tegne den skriver du<br> 
  stinkyKnap.display();
  
  For at adde en ny action skriver du 
