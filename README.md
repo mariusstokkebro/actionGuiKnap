@@ -12,7 +12,7 @@ Når du har importeret jar filen skal du skrive dette for at bruge knappen.
  
  For at tilføje en ny action skriver du <br>
  stinkyKnap.addAction(new action()<br> {<br>
- en eller anden action
+ Sejt kode der laver en eller anden action
  
  }
 
