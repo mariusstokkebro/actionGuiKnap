@@ -11,7 +11,7 @@ Når du har importeret jar filen skal du skrive dette for at bruge knappen.
  stinkyKnap.display();
  
  For at adde en ny action skriver du <br>
- stinkyKnap.addAction(new action()<br> {
+ stinkyKnap.addAction(new action()<br> {<br>
  en eller anden action
  
  }
