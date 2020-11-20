@@ -10,7 +10,7 @@ Når du har importeret jar filen skal du skrive dette for at bruge knappen.
  for at tegne den skriver du<br> 
  stinkyKnap.display();
  
- For at adde en ny action skriver du 
+ For at adde en ny action skriver du <br>
  stinkyKnap.addAction(new action() {
  en eller anden action
  
